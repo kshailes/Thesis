@@ -1,0 +1,79 @@
+
+December 09, 2017 16:50 IST
+
+All you need to know about India's NPA crisis and the FRDI Bill
+
+Mutual funds are advertised with the rider that they are subject to market risks, but what about fixed deposits? While caution is thrown to the wind when talking mutual funds or the stock market, banks are considered to be a safer destination for parking one’s wealth.Fiduciary trust, the underlying basis on which finance works, grants that money deposited in a bank is shielded from the vagaries of the market. The principal can be withdrawn, along with the interest accumulated over time. However, that could be about to change given the passing of the Financial Resolution and Deposit Insurance (FRDI) Bill, which is pending before a Standing Committee of Parliament. 
+
+Also Read
+
+
+
+
+
+Bail-in doubts — on financial resolution legislation
+
+
+
+
+ The government has proposed this legislation for the recapitalisation of banks. Despite being awarded a positive outlook by the credit rating agency Moody’s Investors Service, India’ financial institutions are in need of resuscitation given the pile-up of non-performing assets (NPAs) that threaten to hinder growth, and jeopardise the health of both state-owned, as well as private banks. As it stands, stressed assets held by Indian banks amount to around Rs.10 lakh crore ($150 million), roughly twice the GDP of Sri Lanka.What are NPAs?The primary function of the Reserve Bank of India (RBI) is to regulate the supply of money in the economy. For this end, they use tools like the Cash Reserve Ratio (CRR), the Statutory Liquidity Ratio (SLR), the repo rate, and the reverse repo rate. Bad loans arise when banks make poor lending decisions. The CRR is calculated as a percentage of the net demand and time liabilities (NDTL).CRR is the money that banks are required to deposit with the RBI, for which they will not be paid interest. At present, the RBI has fixed this at 4%. In addition to this, banks have to deposit a portion of their money in relatively safe assets which are easily saleable - such as government bonds, securities or gold - to generate liquid cash in the event of a run on the bank. The current SLR is 19.5%.For example, out of every Rs.100 deposited in a bank, Rs.4 is parked with the RBI, and Rs.19.5 in assets like bonds or gold. Almost a quarter of the money in the system can be retrieved in case of a contingency while the bank is free to lend the remaining Rs.76.5 to corporate or retail borrowers. The interest gleaned on such loans is used to compensate the bank’s customers as interest payment, and the remainder is the bank’s profit. NPAs arise when banks lend to clients who default on their repayment.How do Indian banks compare with their global counterparts?
+
+
+     var divElement = document.getElementById('viz1512457602890'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.minWidth='250px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='277px';vizElement.style.maxHeight='487px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); 
+
+
+ The Financial Stability Report, 2017, released by the RBI, states that India’s gross NPAs stands at 9.6%. This figure is the sum total of all stressed assets held by lending institutions in the country including co-operatives and small banks in addition to government and private banks. India has the second highest ratio of NPAs among the major economies of the world. Only Italy, with 16.4% NPAs has more stressed assets. China, whose economic growth is largely fuelled by borrowings, has only 1.7% NPAs according to the International Monetary Fund (IMF) Soundness Indicators. However, despite the large quantum of stressed assets, India’s NPA problem is not comparable with debt-ridden countries like Greece and Ukraine which have 36.3% and 30.5% NPAs.Which industries are the major defaulters?
+
+
+     var divElement = document.getElementById('viz1512458326514'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.minWidth='250px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='277px';vizElement.style.maxHeight='467px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); 
+
+
+ The RBI’s Financial Stability Report names the basic metals and cement industries as the most indebted, with 45.8% and 34.6% stressed assets respectively. Despite the recent GDP numbers which point to lukewarm growth, the metals industry continues to be hamstrung by slow demand and cheaper imports. The construction, infrastructure and automobile industries also account for a sizeable chunk of banks’ NPAs.Which banks have the most NPAs?
+
+
+     var divElement = document.getElementById('viz1512724949329'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.minWidth='250px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='277px';vizElement.style.maxHeight='487px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); 
+
+
+ According to the response given by the Finance Minister Arun Jaitley to a question raised in the Lok Sabha on August 11, 2017, the gross NPAs of public sector banks increased by 311.22% from Rs.1,55,890 crores in 2013 to Rs.6,41,057 crores in 2017. The gross NPA ratio as a percentage of total assets rose from 3.84% to 12.47%. Likewise, the gross NPAs of private banks witness an increase of 269.47% from Rs.19,986 crores in 2013 to Rs.73,842 crores in 2017.
+
+
+     var divElement = document.getElementById('viz1512465836773'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.minWidth='250px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='277px';vizElement.style.maxHeight='487px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); 
+
+
+ These numbers present a slight variance with that estimated by credit rating agencies since the methodology adopted by banks for classifying their assets vary. According to the rating agency CARE, as of June 2017, State Bank of India leads the list of scheduled banks with the highest NPAs with Rs.1,88,068 crores of stressed assets. Punjab National Bank and IDBI Bank follow suit with Rs.57,721 crores and Rs.50,173 crores of gross NPAs respectively.
+
+
+if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["foNnV"]={},window.datawrapper["foNnV"].embedDeltas={"100":663,"200":559,"300":507,"400":507,"500":507,"600":481,"700":481,"800":481,"900":481,"1000":481},window.datawrapper["foNnV"].iframe=document.getElementById("datawrapper-chart-foNnV"),window.datawrapper["foNnV"].iframe.style.height=window.datawrapper["foNnV"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["foNnV"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("foNnV"==b)window.datawrapper["foNnV"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});
+
+
+ However, among Indian banks, IDBI Bank, which has 24.11% gross NPAs tops the list for lending institutions with the highest exposure to liabilities. Indian Overseas Bank has 23.6% NPAs while fellow private lenders like Kotak Mahindra Bank and HDFC fare better with only 2.58% and 1.24% gross NPAs. State Bank of India, which is saddled with most stressed assets in absolute terms, has a gross NPA ratio of 9.97%.
+
+
+     var divElement = document.getElementById('viz1512723160771'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.minWidth='250px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='277px';vizElement.style.maxHeight='487px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); 
+
+
+ It should also be noted that India’s bad loans problem could hold economic growth to ransom. Data collected by the Ministry of Statistics and Programme Implementation (MOSPI) and compiled by the World Bank reveals that economic growth tapers off with a spike in the bad loan ratio. While economic output has been laggard over the past few quarters owing to disruptive policies such as demonetisation and the implementation of the goods and services tax (GST), the lacklustre performance of India Inc has pulled down banks with greater defaults from corporate clients. The gross NPA ratio has spiked from 5.884% in 2015 to 9.6% in 2017 while economic growth has slumped in the corresponding period.How has the government reacted to the NPA crisis?The Financial Resolution and Deposit Insurance (FRDI) Bill is the latest attempt at mopping up the bad loans with which banks are saddled with. Previous attempts to this end have been moderately successful. To recover outstanding loans, a slew of legislations including the IBC (Insolvency and Bankruptcy Code), the SARFAESI (Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest) Act, and the RDDBFI (Recovery of Debts due to Banks and Financial Institutions) were instituted. Debt Recovery Tribunals (DBT) were also set up to fast-track proceedings. 
+
+Also Read
+
+
+
+
+
+Will bank recapitalisation fix NPAs? 
+
+
+
+ The SARFAESI Act empowers banks to auction assets or properties that were submitted as collateral while sanctioning loans. Under this Act, 64,519 properties were seized in 2015-16. However, the value of recovered assets constitutes only a tip of the NPA iceberg.What is the Financial Resolution and Deposit Insurance (FRDI) Bill?The FRDI Bill is aimed at insuring the money of a bank’s depositors in the case of an eventuality where the bank would have to be liquidated. However, some of the provisions of the draft have drawn the ire of depositors and bank employees alike, since it compromises the interests of the depositor and gives the government absolute power in deciding the fate of banks if they go under.The bill proposes the setting up of a Resolution Corporation, “whose direction and management vests with the Board, subject to the terms and conditions of the Act.” A ‘Corporation Insurance Fund’ is the financial vehicle which will be used to garner insurance inflows. 
+
+Also Read
+
+
+
+
+
+The FRDI Bill and concerns of the depositor 
+
+
+
+ While debt restructuring and ensuring the robustness of financial institutions was previously the domain of the RBI, the bill gives the government overweening powers by virtue of greater representation in the Resolution Corporation. The Board consists of a Chairperson, one member each from the Finance Ministry, the RBI, Securities and Exchange Board of India (SEBI), the Insurance Regulatory and Development Authority of India (IRDAI), the Pension Fund Regulatory and Development Authority (PFDA), three full-time members and two independent members, both of whom will be appointed by the Central government. This implies that six of the 11 members of the Board will be nominated by the government, giving it the final say in decision making.North Block’s turf war with the RBI is just one among the highlights of the proposed legislation. The bail-in clause has emerged as the major bone of contention with depositors. This gives banks the authority to issue securities in lieu of the money deposited. While the insurance covers only Rs.1,00,000 of the principal, the remainder of the sum deposited with a bank will be converted to tradable financial assets which can be redeemed. However, their value will not be immediately commensurate with the deposit amount since if a bank has filed for bankruptcy, the value of assets held would have also eroded.Other countries that have experimented with a bail-in clause have not fared well. In Cyprus, depositors lost almost 50% of their savings when a “bail-in” was implemented by the resolution corporation, Thomas D. Franco, general secretary of the bank employees association AIBOC told Frontline.The FRDI Bill which is currently pending before a Standing Committee of Parliament is likely to be introduced during the winter session which begins on December 15, 2017.

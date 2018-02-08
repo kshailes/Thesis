@@ -1,0 +1,58 @@
+
+November 08, 2017 08:23 IST
+
+Demonetisation anniversary | day sees protests and praises 
+The face-off between the BJP and the Congress-led Opposition on demonetisation peaked on Wednesday, the first anniversary of the note ban, with the ruling party at the Centre observing it as ‘anti-black money day’ and the latter as ’black day’.Demonetisation (ban on Rs. 1,000 note and old Rs. 500) was announced on November 8 , 2016 by Prime Minister Narendra Modi.BJP leaders, including many Union Ministers, are fanning out across the country to highlight the “benefits” of demonetisation.Calling the measure “anti-people”, the Congress and several Opposition parties are holding protests against the note ban in several parts of the country.Unfazed by the Opposition criticism, the BJP claims demonetisation led to a cleaner economy.Actor Prakash Raj seeks apologyActor Prakash Raj has penned a note demanding an apology from the authorities for the “disruptive impact” of the demonetisation exercise. Read more.Nitish Kumar says it is an “effective action” against black moneyBihar Chief Minister Nitish Kumar congratulated the Modi government on the first anniversary of demonetisation, calling it an “effective action” against black money. He hailed the government for launching an “attack” on benami properties.“Demonetisation was an effective action against black money. Attack has now begun on benami properties. Congratulations to the Centre,” Mr. Kumar said in a tweet in Hindi.RJD stages demonstrationsRashtriya Janata Dal (RJD) chief Lalu Prasad launched a blistering attack on the BJP, saying the move served the purpose of “converting black money into white with greater ease."The RJD held rallies and staged demonstrations across Bihar in protest against demonetisation.“Black money was converted into white with greater ease as a result of the note ban. The poor were fooled into believing that it was a step keeping their interests in mind,” Mr. Prasad said.Trinamool observes ‘black day’ in West BengalThe Trinamool Congress (TMC) observed ‘black day’ throughout West Bengal to mark the first anniversary of demonetisation.TMC supremo and Chief Minister Mamata Banerjee described demonetisation as “DeMoDisaster” and turned her Twitter display picture black.“I have turned my Twitter DP black #DeMoDisaster. Let us raise our voices #Nov8BlackDay,” the Trinamool Congress chief wrote on her Twitter handle after changing her DP.West Bengal Urban Development Minister Firhad Hakim led a march in Chetla area of Kolkata. Other Ministers, including Partha Chatterjee, Sovandeb Chattopadhaya, Subrata Mukherjee and Sashi Panja, also led protest marches at Jadavpur, Esplanade, Gariahat and Shyambazar.Smriti Irani flags off 'digital rath'Union Minister Smriti Irani flagged off a ‘digital rath’ as part of an initiative to accelerate adoption of cashless payments among merchants in various cities.Under the initiative, by December 31, global payments solutions provider Mastercard aims to reach out to around 10 lakh merchants in cities, including Lucknow, Kolkata, Pondicherry, Navi Mumbai and Bhopal, to inform them about benefits of electronic payments and how to leverage the tool in expanding their business.It struck a blow to anti-India forces, says ParrikarFormer Defence Minister Manohar Parrikar said demonetisation has struck a blow to anti-India forces and empowered the poorest of poor through an increase in financial inclusion and formalisation of the economy. “Through increase in financial inclusion & formalisation of our economy, #Demonetisation empowered the poorest of poor,” Mr. Parrikar said in a tweet.“Terrorism & naxalism thrives on unaccounted cash & black money. #Demonetisation has struck a blow to anti-India forces,” he said in another tweet.In yet another tweet, the senior BJP leader said, “#Demonetisation was a reformist measure to weed out black money, strengthen our economy, & establish good governance.”It was a ‘thoughtless act’, alleges RahulCongress vice-president Rahul Gandhi, termed demonetisation a “tragedy” and a “thoughtless act” and alleged that due to it livelihood of millions of honest Indians were destroyed. He said his party stood with all those people who had suffered due to demonetisation.Taking a poetic dig at the government, he tweeted in Hindi that even a single tear spelt danger for the government and one has not seen an ocean coming out of the eyes, tagging a picture of some poor people crying while standing in queues.Mr. Gandhi will lead the party’s protest against demonetisation in poll -ound Gujarat. He has chosen Surat where he would interact with traders, weavers and workers. In the evening, he will take part in a “candle light vigil to pay homage to those ''who lost their lives because of demonetisation.” Read more
+
+
+Read more
+
+
+ Kanimozhi describes it as a cyclone that turned life upside downDemonetisation was a cyclone that turned life upside down, and one year on, people are yet to recover from its impact, DMK Women’s Wing secretary M.K. Kanimozhi said in Coimbatore on Wednesday.Leading a protest rally the party had organised on the first anniversary of note ban, she said the benefits the Central government claimed that demonetisation would bring had not happened.CBI registers 77 cases after demonetisationThe CBI says it has arrested 307 persons, including 180 public servants, in connection with illegal exchange of the banned notes post demonetisation. Seventy-seven cases & seven preliminary enquiries have been registered in the period relating to exchange of demonetised currency in various departments/agencies, including, banks, post offices, railways, and insurance companies, the premier investigating agency said.Chidambaram demands release of RBI Board agendaSenior Congress leader P. Chidambaram on Wednesday said millions of people “suffered” and no one can deny that lives and jobs were lost due to demonetisation. “In the interest of transparency, the government/RBI should release RBI Board’s agenda, background note and [former Governor] Dr. Raghuram Rajan’s note. If the government is confident of its decision, why does it fear releasing these documents,” he asked.
+
+
+
+
+
+
+jwplayer.key="ufXerhbUhy44DsV1xEas/0BgXAMXg11AmfXrcRK/2bbnqQvk";
+
+
+
+jwplayer('jwplayer_20002853').setup({
+// URL to the video file
+file: 'http://video.thehindu.com/thehindu/6913Congress-DeMo-protest.mp4',	// URL to the image that should be shown before the video is started
+image: 'http://www.thehindu.com/news/cities/Delhi/article20002956.ece/ALTERNATES/FREE_660/ANI%20photoJPG-01',
+title: '',
+autostart: '',
+mute: true,
+advertising: {
+client: "vast",
+tag: "",
+companiondiv: {
+id: "banner",
+width: 728,
+height: 90
+}	},
+type: 'mp4',
+controls: true,
+aspectratio: '16:9'	});
+player.on('error', function() {
+player.load({
+file:"//content.jwplatform.com/videos/7RtXk3vl-52qL9xLP.mp4",
+image:"//content.jwplatform.com/thumbs/7RtXk3vl-480.jpg"
+});
+player.play();
+});
+
+
+
+
+Modi shares video, seeks feedbackPrime Minister Narendra Modi shared a video on his twitter handle, highlighting the benefits of demonetisation. The seven-minute video stresses on the importance of the initiative."Here are the benefits of demonetisation, encapsulated in this short film. Have a look," he tweeted."What do you feel about the efforts to uproot corruption & black money. Tell me through this survey. http://nm4.in/dnldapp", he said in another tweet.
+
+
+Here are the benefits of demonetisation, encapsulated in this short film. Have a look. #AntiBlackMoneyDay pic.twitter.com/rPmGUYnTzI— Narendra Modi (@narendramodi) November 8, 2017
+
+
+
+Prithviraj Chavan wants parliamentary panel probeFormer Maharashtra Chief Minister Prithviraj Chavan has demanded a probe by a joint parliamentary committee to ascertain the “real intention” behind the demonetisation exercise.“As time passed after demonetisation, a different scenario came up, contradicting the initial claims made by the Prime Minister on November 8 [last year], while announcing the exercise. This was an impulsive decision, which hurt the country to no ends,” Mr. Chavan told PTI.“After the RBI said that all the money had come back into the system, Jaitleyji [Finance Minister Arun Jaitley] had said the intention behind demonetisation was digitisation. Now the question that arises is, was the Prime Minister aware of the real intention or was he kept in the dark about the whole process and its repercussions,” he said.“Jaitleyji had announced to form the board in his budget speech. Yet, nothing has been done. Unless there is a proper infrastructure in place, people cannot be forced to go cashless,” he said.BJP leaders to highlight "benefits"Union Ministers Nitin Gadkari, Ananth Kumar, Nirmala Sitharaman, Mukhtar Abbas Naqvi, Suresh Prabhu and Smriti Irani will speak to the media in Mumbai, Hyderabad, Chennai, Chandigarh, Jaipur and Lucknow respectively on Wednesday.Prakash Javadekar will address a press conference in Bengaluru and Piyush Goyal in Ahmedabad. Union Minister Jayant Sinha has also been drafted for the exercise, sources said.BJP chief Amit Shah will be in Gujarat.Manmohan calls it a black dayFormer Prime Minister Manmohan Singh on Tuesday described November 8 as a “black day for economy and democracy”. He said the twin blows of demonetisation and implementation of Goods and Services Tax (GST) were disastrous for the economy and “broke the back of businesses.” Read more(With inputs from news agencies)

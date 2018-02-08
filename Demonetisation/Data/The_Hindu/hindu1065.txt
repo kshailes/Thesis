@@ -1,0 +1,30 @@
+
+January 02, 2017 12:27 IST
+
+A step-by-step guide on how to use BHIM app
+
+At a programme in New Delhi on Friday, Prime Minister Narendra Modi launched the mobile payment app BHIM (Bharat Interface for Money). Developed by the National Payments Corporation of India (NPCI), BHIM is an aggregator for all UPI-based services offered by banks.
+
+
+
+
+
+
+
+UPI, or Unified Payment Interface, is a payment system that allows money transfer between any two bank accounts by using a smartphone. UPI allows a customer to pay directly from a bank account to different merchants, both online and offline, without the hassle of typing credit card details, IFSC code, or net banking/wallet passwords.Here’s a step-by-step guide on how to use the app:1. Android users can download the application from Play Store by searching for ‘BHIM’. The app is not available for iOS users yet.2. Install the application and choose your language. The app will prompt you to verify your phone number using an SMS. Click on Next and wait for the verification process to be completed.
+
+
+
+
+
+
+
+3. Once the verification is complete, input a four digit passcode.4. After a passocode is set, the app will ask you to select your bank. Once the bank is selected, the app automatically picks up your details using your phone number. Select the primary bank account that will be used for all your transactions.5. The app displays three options — send, request and scan/pay. Transactions are possible only between verified phone numbers.6. To send money to someone, type in their phone number and the amount to be transferred. The app will prompt you to input your MPIN, usually a four or a six digit code that authenticates a mobile transaction. 
+
+
+
+
+
+
+
+ 7. Likewise, you can request money from someone, using their phone number.8. The third option, scan & pay, allows users to transfer money using a QR code, a two dimensional black and white barcode which can be decoded by a smartphone or a tablet. Each phone number is assigned a QR code which can be accessed under profile on the home screen.

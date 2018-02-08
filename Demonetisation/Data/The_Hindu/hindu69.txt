@@ -1,0 +1,57 @@
+
+October 30, 2017 15:10 IST
+
+Congress starts Nov. 8 countdown
+
+The Congress announced that it will hold countrywide protests, right down to the block level, against last year’s demonetisation move and the Goods and Services Tax on November 8, the day the note ban was announced last year.The catchline for the protest will be “Bhugat Raha Hai Desh” (the country is suffering).The decision was taken at the twin meetings held on Monday at the Congress headquarters and chaired by vice-president Rahul Gandhi.The first meeting on demonetisation was attended by general secretaries and those in charge of States, while the one on GST that followed saw former Prime Minister Manmohan Singh, former Union Ministers P. Chidambaram and Jairam Ramesh, and the Finance Ministers of the six Congress-ruled States – Karnataka, Punjab, Mizoram, Meghalaya, Himachal Pradesh and Puducherry.Emerging from the meeting, Mr. Gandhi accused Prime Minister Narendra Modi of destroying the country’s economy with two “torpedoes” — the note ban last year and the manner in the which the Goods and Services Tax is being implemented.Mr. Modi had failed to understand the pain of the people, Mr. Gandhi said.Expressing surprise that the government was “celebrating” the first anniversary of the note ban on November 8, he said, “I don’t know what is there to celebrate.”The Centre will observe November 8 or demonetisation anniversary as “anti-black money day.”
+
+
+
+
+
+
+
+Mr. Gandhi said that while the economy survived the note ban torpedo, the GST one had left it “in tatters.” The Prime Minister “is not able to understand the feelings of the people and the hurt and sadness these two decisions have caused,” he told journalists, adding that demonetisation was a disaster, while GST is “a good idea implemented badly.”Earlier, Leader of Opposition Ghulam Nabi Azad had met leaders of other like-minded Opposition parties and some of them will be holding similar protests on November 8. As many as 18 parties, including the Congress, Mamata Banerjee’s Trinamool Congress, the DMK and the Left Parties will observe it as a ‘black day’ with protests and rallies in different States to highlight the cash crunch and economic slowdown that followed demonetisation.The BJP responded to the Congress’s frontal attack on Mr. Modi, with party spokesperson GVL Narasimha Rao saying, “It is understandable that the Congress did not like the demonetisation decision as the corrupt politics that it pursued in power would directly militate against a transparent economic regime.”Taking a swipe at Mr. Gandhi on the GST issue, he said, “It seems Rahul Gandhi has no contact and control over the State governments that his party presides over. All decisions on GST were taken collectively at the GST Council. Finance Ministers of all States are members of this Council. The Congress party’s duplicity on GST reeks of hypocrisy and doublespeak.”
+
+
+
+
+Demonetisation a disaster: Rahul Gandhi
+
+
+
+
+
+
+jwplayer.key="ufXerhbUhy44DsV1xEas/0BgXAMXg11AmfXrcRK/2bbnqQvk";
+
+
+
+jwplayer('jwplayer_19949111').setup({
+// URL to the video file
+file: 'http://video.thehindu.com/thehindu/4483Rahul-Gandhi-1.mp4',	// URL to the image that should be shown before the video is started
+image: 'http://www.thehindu.com/news/national/article19949110.ece/ALTERNATES/FREE_660/rahulgandhijpeg',
+title: '',
+autostart: 'false',
+mute: true,
+advertising: {
+client: "vast",
+tag: "",
+companiondiv: {
+id: "banner",
+width: 728,
+height: 90
+}	},
+type: 'mp4',
+controls: true,
+aspectratio: '16:9'	});
+player.on('error', function() {
+player.load({
+file:"//content.jwplatform.com/videos/7RtXk3vl-52qL9xLP.mp4",
+image:"//content.jwplatform.com/thumbs/7RtXk3vl-480.jpg"
+});
+player.play();
+});
+
+
+

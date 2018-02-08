@@ -1,0 +1,143 @@
+
+September 01, 2017 12:46 IST
+
+GJM stir escalates in Darjeeling, Tamang removed from post 
+After an apparent calm for about a fortnight, protests erupted in Darjeeling and Kalimpong hills in north Bengal since Thursday night following an announcement to call off nearly 80 day strike in the hills.The supporters of Gorkha Janmukti Morcha [GJM] and residents of Darjeeling took to the streets at night. Mnay of them were seen marching on roads or organising demonstrations in the town on Friday morning.GJM assistant general secretary, Binoy Tamang, who was recently appointed as the Coordinator of GJM, was removed from the post of Coordinator, said Roshan Giri, party’s general secretary.“We will be having a central committee meeting little later in the day where it will be decided through a resolution if Tamang and Anek Thapa [a senior leader] will be expelled from the party,” said Mr. Giri.Mr. Tamang led a team of GJM to an all-hill party meeting with the Chief Minister Mamata Banerjee in Kolkata on August 29.Following the meeting Mr. Tamang gave a call to postpone the ongoing strike to September 12, which has reportedly irked the party President Bimal Gurung. 
+
+
+
+
+
+
+
+
+One of the most picturesque hill stations, acquired by the British in 1835 as a health resort, is shut for the last two-and-a-half months following a movement for a separate Gorkha homeland led by Gorkha Janmukti Morcha, which was founded in 2007.
+
+
+
+
+
+
+
+The man carrying the umbrella is Dambar Prasad Shiwakoti, senior master of Darjeeling’s elite Turnbull High Secondary School. “The tenth standard [final] examination is approaching. Students of elite institutions are attending private classes in Siliguri. But what about those who are not from the elite schools?” he asks. Realising this, Shiwakoti, with the help of a local club, started a make-shift school which now has 275 students from a dozen local schools.
+
+
+
+
+
+
+
+Dhanmaiya Tamang, 68, is in jail for supporting the Gorkhaland movement. Many have been arrested and nearly a dozen have lost their lives since the movement started. “Unthinkable human rights abuse is perpetrated by the State government to counter a peaceful movement,” says Ms Tamang’s son, Umesh Tamang, a taxi driver. The State government officials did not comment.
+
+
+
+
+
+
+
+With the movement not showing much signs of slowing down, there are huge expectations around Tuesday’s [August 29] meeting between Chief Minister Mamata Banerjee and the GJM leadership. A five-member delegation of the hill party, led by assistant general secretary Benoy Tamang, will join the meeting in Kolkata. “But we do not want them to return empty-handed,” says Umesh Tamang, son of Dhanmaiya Tamang.
+
+
+
+
+
+
+
+The first obstacle was access to Darjeeling. It was virtually impossible to enter the hill station from either Siliguri in the plains or Gangtok in Sikkim. Finally, I was ‘smuggled’ in an ambulance from Rangpo bridge, about 60 km east of Darjeeling. The driver refused to enter the frame. “I am in a government job,” he says.
+
+
+
+
+
+
+
+GJM supporters checking the pass before allowing entry into Darjeeling. The pass, issued by GJM leadership, is a clear indicator that the West Bengal government has no control over the hill district in north Bengal, outside the main town of Darjeeling, little over 2,000 meters above sea level.
+
+
+
+
+
+
+
+I was stopped in check-posts manned by GJM supporters, women and men. This pass was issued by GJM and was given to the driver, who came from Kalimpong. There were 12 check posts and not a single police man outside Darjeeling town.
+
+
+
+
+
+
+
+Littered with burnt vehicles, Darjeeling looks eerie. Streets are empty. Residents rarely come out of their houses other than to occasionally pick up daily consumables. The weather is damp and the tourist season is over.
+
+
+
+
+
+
+
+Mid-days are however different. For a few hours, the residents of Darjeeling take control of the streets. They form human chains – like this one – and organise various rallies. “We are inventing new forms of peaceful protest every day,” says Suraj Thapa, a SIM-card salesman.
+
+
+
+
+
+
+
+Near the famous Mall, below the Mahakal temple, however, many could be seen fiddling with their mobile phones. This is the point where the phones receive signals, as it is in a higher altitude. “The Internet is shut over two months and there are two points in town where we may have occasional signals,” says Pema, a physiotherapist. “We need to check the messages at least twice a day as we are distributing food in packets of 10 and 5 kg,” she says.
+
+
+
+
+
+
+
+“The biggest challenge is distribution of food to tea gardens and forest villages in far-flung areas,” says Roshan Rai, who runs an NGO, DLR Prerna, and has worked on issues of fair trade in tea plantations. In the meeting, pictured above, it was decided to draw a food distribution plan so that available material can be equitably distributed across the hills.
+
+
+
+
+
+
+
+In many parts of the town, women could be seen cooking and selling momos. “The money is then used to buy food stuff and distribute it,” says Sashi Yanzon [in red jacket] of Mani Trust, an NGO that set up this make-shift momo shop near the Mall. They are doing good business, she says.
+
+
+
+
+$(document).ready(function(){
+$('#teaser-14269002-19570115-slideshow').slick({
+infinite: true,
+slidesToShow: 1,
+slidesToScroll: 1,
+autoplay: false,
+prevArrow: '<div class="pc-prev "></div>',
+nextArrow: '<div class="pc-next"></div>',
+responsive: [
+{
+breakpoint: 1599,
+settings: {
+centerPadding: '40px'
+}
+},
+{
+breakpoint: 1023,
+settings: {
+centerPadding: '57px'
+}
+},
+{
+breakpoint: 767,
+settings: {
+slidesToShow: 1,
+centerMode: false,
+centerPadding: '0px'
+}
+}
+]
+});
+});
+
+
+
+
+ GJM claimed that a section of their party leaders “have shaken hands with Bengal government and have worked to derail [the] movement” and thus the party chief Gurung issued strongly-worded statement claiming that as long as people wish to continue with the struggle for a Gorkha homeland GJM will not vacillate.“They [section of the leaders led by Tamang] went to Nabanna [State Secretariat in Kolkata] and sat for a meeting with Mamata Banerjee without consulting me,” Mr. Gurung alleged.Following the developments, it is likely that Mr. Tamang and his followers would be expelled from the party on Friday which may escalate tension in the hills.The police have said that they are closely monitoring the situation and would “strongly” deal with any attempt to influence the law and order in the hills.“So far the meetings and protests are peaceful and democratic and we have no reason to use force,” said DIG, Darjeeling Range, Humayun Kabir.

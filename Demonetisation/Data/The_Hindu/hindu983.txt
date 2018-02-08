@@ -1,0 +1,17 @@
+
+November 21, 2016 17:23 IST
+
+Not so easy money
+
+Demonetisation of high-value notes has led to unending queues at ATMs. This graph shows where India stands with regard to the availability of the kiosks. 
+
+
+
+
+
+As of June 2016, there were 2.15 lakh ATMs across the country , i.e. one ATM for 5,800 Indians Goa, Chandigarh and Delhi have the highest ATM availability (country mean: 17 per 1 lakh population). Among major States alone, Tamil Nadu has the best ATM availability How do we fare globally? ATM availability in India is better than that of its neighbours: Pakistan, Nepal, Bangladesh and Sri Lanka. However, among BRICS nations, India has the poorest ATM availability. China has 55 ATMs per lakh population, a little more than three times India’s (and slightly higher than Goa’s). South Africa has 66, Brazil has 129 and Russia has 184. 
+
+"undefined"==typeof window.datawrapper&&(window.datawrapper={}),window.datawrapper["Ftdds"]={},window.datawrapper["Ftdds"].embedDeltas={"100":666,"200":635,"300":608,"400":608,"500":608,"600":608,"700":608,"800":608,"900":608,"1000":608},window.datawrapper["Ftdds"].iframe=document.getElementById("datawrapper-chart-Ftdds"),window.datawrapper["Ftdds"].iframe.style.height=window.datawrapper["Ftdds"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["Ftdds"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])"Ftdds"==b&&(window.datawrapper["Ftdds"].iframe.style.height=a.data["datawrapper-height"][b]+"px")});
+
+
+ 
